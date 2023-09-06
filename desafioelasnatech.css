@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    font-family:Open Sans,sans-serif;
+    background-color:#ad9add ;
+    color: black;
+    margin: 0px;
+      }
+
+    
+      
+        
+
+
+      h2{
+        display:inline;
+        color: black;
+        font-size: 40px;
+        padding: 0px;
+        border: 12px solid rgb(2, 93, 77);
+        border-width: 10px;
+        border-radius: 20px;
+        background: rgb(179, 223, 179);
+        height: 40px;
+        max-width:60%;
+        margin-top: 0px;
+          
+      }
